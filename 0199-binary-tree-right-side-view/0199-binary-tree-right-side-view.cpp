@@ -11,20 +11,16 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, int vd, map<int,int>& m){
+    void dfs(TreeNode* root, int vd, vector<int>& ans){
         if(root==NULL) return;
-        m[vd] = root->val;
-        dfs(root->left, vd+1, m);
-        dfs(root->right, vd+1, m);
+        if(ans.size()==vd) ans.push_back(root->val);
+        else ans[vd] = root->val;
+        dfs(root->left, vd+1, ans);
+        dfs(root->right, vd+1, ans);
     }
     vector<int> rightSideView(TreeNode* root) {
-
-        map<int,int> m;
-        dfs(root, 0, m);
         vector<int> ans;
-        for(auto it: m){
-            ans.push_back(it.second);
-        }
+        dfs(root, 0, ans);
         return ans;
     }
 };
