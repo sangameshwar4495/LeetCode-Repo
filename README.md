@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -65,4 +66,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
