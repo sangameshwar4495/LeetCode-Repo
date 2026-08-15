@@ -16,5 +16,7 @@ public:
         if(p->val<root->val && q->val<root->val) return lowestCommonAncestor(root->left, p, q);
         else if(p->val>root->val && q->val>root->val) return lowestCommonAncestor(root->right, p, q);
         return root;
+        //if one is left side and one is right side then it is the lca
+
     }
 };
