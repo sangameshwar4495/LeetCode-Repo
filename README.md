@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -106,8 +107,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
