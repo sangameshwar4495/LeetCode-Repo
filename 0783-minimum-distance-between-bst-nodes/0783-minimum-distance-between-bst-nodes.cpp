@@ -11,19 +11,15 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& v){
-        if(root==NULL) return;
-        dfs(root->left, v);
-        v.push_back(root->val);
-        dfs(root->right, v);
-    }
+    int prev=-1, ans=INT_MAX;
     int minDiffInBST(TreeNode* root) {
-        vector<int> v;
-        dfs(root, v);
-        int ans = INT_MAX;
-        for(int i=1; i<v.size(); i++){
-            ans = min(ans, v[i]-v[i-1]);
+        if(root==NULL) return 0;
+        minDiffInBST(root->left);
+        if(prev!=-1){
+            ans =  min(ans, root->val-prev);
         }
+        prev = root->val;
+        minDiffInBST(root->right);
         return ans;
     }
 };
