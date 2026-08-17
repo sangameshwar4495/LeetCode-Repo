@@ -99,22 +99,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -150,4 +154,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
