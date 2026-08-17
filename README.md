@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -105,10 +107,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Quickselect
@@ -127,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 <!---LeetCode Topics End-->
