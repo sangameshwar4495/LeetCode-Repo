@@ -70,11 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -170,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
