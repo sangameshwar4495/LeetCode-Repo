@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
