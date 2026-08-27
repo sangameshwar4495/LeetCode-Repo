@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +204,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
