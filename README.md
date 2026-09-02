@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -226,5 +228,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0841-keys-and-rooms/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
