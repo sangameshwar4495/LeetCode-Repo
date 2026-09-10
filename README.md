@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
