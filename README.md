@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0118-pascals-triangle](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0118-pascals-triangle/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -247,4 +248,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
