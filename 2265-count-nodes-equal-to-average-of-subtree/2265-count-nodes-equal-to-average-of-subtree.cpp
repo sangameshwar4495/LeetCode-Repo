@@ -23,7 +23,7 @@ public:
         return make_pair(sum, cnt);
     }
     int averageOfSubtree(TreeNode* root) {
-        pair<int, int> p = post(root);
+        post(root);
         return ans;
     }
 };
