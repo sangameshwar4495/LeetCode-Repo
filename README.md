@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Divide and Conquer
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -252,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0118-pascals-triangle/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
