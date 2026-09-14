@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0836-rectangle-overlap/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Two Pointers
@@ -284,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
