@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+| [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
 | [0835-image-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
+| [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
@@ -321,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0062-unique-paths/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
