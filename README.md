@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,11 +324,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
