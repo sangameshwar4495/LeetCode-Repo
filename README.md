@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0020-valid-parentheses/) | Easy |
 | [0091-decode-ways](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
+| [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
