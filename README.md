@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0841-keys-and-rooms/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
@@ -331,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
