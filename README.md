@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0198-house-robber/) | Medium |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0091-decode-ways/) | Medium |
