@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0912-sort-an-array/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0994-rotting-oranges/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
 | [0835-image-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0835-image-overlap/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0994-rotting-oranges/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Queue
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
