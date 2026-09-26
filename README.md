@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0836-rectangle-overlap/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Two Pointers
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0062-unique-paths/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0322-coin-change/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
