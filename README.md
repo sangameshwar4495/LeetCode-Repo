@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
