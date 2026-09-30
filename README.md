@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0344-reverse-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0344-reverse-string/) | Easy |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
