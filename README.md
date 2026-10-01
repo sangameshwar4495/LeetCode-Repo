@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0740-delete-and-earn](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0740-delete-and-earn/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0836-rectangle-overlap/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0740-delete-and-earn](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0740-delete-and-earn/) | Medium |
 | [0835-image-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -379,4 +382,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
