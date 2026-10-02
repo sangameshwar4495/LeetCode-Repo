@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
@@ -308,9 +309,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0062-unique-paths/) | Medium |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0494-target-sum/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
