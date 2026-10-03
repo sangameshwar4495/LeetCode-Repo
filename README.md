@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0836-rectangle-overlap/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
 | [0740-delete-and-earn](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0740-delete-and-earn/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
