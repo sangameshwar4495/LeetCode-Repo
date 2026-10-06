@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0064-minimum-path-sum/) | Medium |
