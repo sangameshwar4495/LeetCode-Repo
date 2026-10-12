@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
