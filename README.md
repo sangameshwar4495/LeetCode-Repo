@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0180-consecutive-numbers/) | Medium |
 | [0584-find-customer-referee](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0610-triangle-judgement/) | Easy |
