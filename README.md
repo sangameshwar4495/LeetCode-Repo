@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1321-restaurant-growth](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1527-patients-with-a-condition/) | Easy |
