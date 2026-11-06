@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0202-happy-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0217-contains-duplicate/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0044-wildcard-matching/) | Hard |
+| [0076-minimum-window-substring](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0179-largest-number/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0904-fruit-into-baskets/) | Medium |
