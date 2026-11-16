@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/1268-search-suggestions-system/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/sangameshwar4495/LeetCode-Repo/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
